@@ -22,13 +22,11 @@ body {
   height: 1.5em;
 }
 
-/*
-
 table {
   margin: 0 auto;
 }
 
-td, th {
+/*td, th {
   padding: 0.5em 1em;
 }
 
