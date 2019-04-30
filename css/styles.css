@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Slabo+27px|IBM+Plex+Mono|MedievalSharp|Pacifico');
+
+body {
+  background: #2f2f39;
+  text-align: center;
+  font: 1.2em/1.4 sans-serif;
+  color: white;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -23,12 +31,6 @@
 }
 
 
-body {
-  background: #2f2f39;
-  text-align: center;
-  font: 1.2em/1.4 sans-serif;
-  color: white;
-}
 
 table {
   margin: 0 auto;
