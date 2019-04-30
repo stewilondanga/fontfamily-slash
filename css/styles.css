@@ -26,11 +26,11 @@ table {
   margin: 0 auto;
 }
 
-/*td, th {
+td, th {
   padding: 0.5em 1em;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
